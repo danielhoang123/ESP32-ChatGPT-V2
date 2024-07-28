@@ -28,8 +28,8 @@
 #define I2S_LRC       26
 
 // Your WiFi Credentials
-const char *ssid = "SSID";       // WiFi SSID Name
-const char *password = "PASS";// WiFi Password ( Keep it blank if your WiFi router is open )
+const char *ssid = "Hshop.vn";       // WiFi SSID Name
+const char *password = "";// WiFi Password ( Keep it blank if your WiFi router is open )
 
 Audio audio;
 

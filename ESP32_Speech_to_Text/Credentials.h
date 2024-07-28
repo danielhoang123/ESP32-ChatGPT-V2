@@ -3,8 +3,8 @@
 
 
 // Your WiFi Credentials 
-const char *ssid = "SSID";       // WiFi SSID Name
-const char *password = "PASSWORD";// WiFi Password ( Keep it blank if your WiFi router is open )
+const char *ssid = "Hshop.vn";       // WiFi SSID Name
+const char *password = "";// WiFi Password ( Keep it blank if your WiFi router is open )
 
 
 // Parameters of Google Speech to Text API
